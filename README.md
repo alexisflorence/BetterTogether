@@ -1,6 +1,9 @@
-Team11
+# Better Together
+
 ## Overview
-Better Together is a mental health support app developed by Team 11. This Android application aims to provide users with resources, tools, and a community to support mental well-being. The app is designed to be a companion for those seeking to improve their mental health, offering a range of features from self-care tips to connecting with professionals.
+Better Together is a mental health support app developed by Team 11. This Android application aims to provide users with resources, tools, and a community to support mental well-being. The app is designed to be a companion for those seeking to improve their mental health, offering a range of features from self-care tips to connecting with professionals. This was a collaborative App created in a group at Northeastern University. 
+
+CS5520 Mobile Application Development
 
 ## Features
 
